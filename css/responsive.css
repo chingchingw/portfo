@@ -1,0 +1,305 @@
+
+@media only screen and (max-width: 770px) {
+	body{margin-left:-100px;}
+   #section1 .topCW{margin-left: 100px;}
+  }
+
+@media only screen and (max-width: 1390px) {
+	body{margin-left:-20px;}
+  #section1 .topCW{margin-left: 10px;}
+  }
+
+/*---------------------------------------------------------------------------*/
+@media only screen and (max-width: 1300px) {
+	body{margin-left:-40px;}
+  #section1 .topCW{margin-left: 10px;}
+  #section7 .website{margin-left: 110px;}
+
+/*-------------WTW---------------*/
+	#section3 .titleanimated {
+	font-size: 65px;
+	}
+	.wtw_video {
+		width: 720px;
+		height: 500px;
+		right:  0.1%;
+	}
+	#section3 .wtw_title {
+		margin-left: 320px;
+		margin-top: 140px;
+	}
+	#section3 .wtw_subtitle {
+		font-size: 18px;
+		margin-top: -426px;
+		line-height: 27px;
+	}
+	#section3 .wtw_description{
+		font-size: 12px;
+		width:20%;
+		line-height: 24px;}
+
+	 #section3 .wtw_video2{
+		width: 300px;
+		height: 325px;
+		margin-left: 190px;
+		margin-top: 190px;
+	}
+	#section3 .wtw_video3{
+	 width: 175px;
+	 height: 140px;
+	 margin-left: 510px;
+	 margin-top: 310px;
+	}
+	#section3 .wtw_video4{
+	width: 175px;
+	height: 140px;
+	margin-top: 310px;
+	margin-left: 710px;
+	}
+	#section3 .wtw_video5{
+	width: 175px;
+	height: 140px;
+	margin-top: 310px;
+	margin-left: 910px;
+	}
+	#section3 .wtw_video6{
+	width: 175px;
+	height: 140px;
+	margin-top: 310px;
+	margin-left: 1110px;
+	}
+
+	/*-------------CP---------------*/
+  #section4 .titleanimated {
+  font-size: 65px;
+  }
+  /*#section4 .cp_title {
+    margin-top: 140px;
+  }*/
+  #section4 .cp_subtitle {
+    font-size: 18px;
+    line-height: 27px;
+  }
+  #section4 .cp_description{
+    font-size: 12px;
+    width:15%;
+    line-height:24px;
+    margin-top:40px;}
+
+	#section4 .cp_kv1 {
+		width: 300px;
+		height: 471px;
+		}
+	#section4 .cp_kv2 {
+		width: 350px;
+		height: 595px;
+		margin-left: 220px;
+		}
+
+	.cp_bg{
+	width: 2000px;
+	height: 300px;
+	background-image: url(../img/cp_bg.jpg);
+	background-size: 95%;
+	background-attachment: fixed;
+	position: absolute;
+	margin-left: -100px;
+	margin-top: 600px;
+	}
+/*-------------hm---------------*/
+#section5 .titleanimated {
+font-size: 65px;
+}
+#section5 .hm_subtitle {
+  font-size: 18px;
+  line-height: 27px;
+}
+#section5 .hm_description{
+  font-size: 12px;
+  line-height: 24px;
+  margin-top: -347px;}
+
+#section5 .hm_kv2 {
+ margin-top: 115px;
+ }
+ #section5 .hm_bg{
+ width: 500px;
+ height:591px;
+ margin-left: 180px;
+ margin-top: 70px;
+ }
+/*-------------mu---------------*/
+#section6 .titleanimated {
+font-size: 65px;
+}
+#section6 .mu_subtitle {
+  font-size: 18px;
+  line-height: 27px;
+}
+#section6 .mu_description{
+  font-size: 12px;
+  line-height: 24px;}
+
+#section6 .mu_kv1 {
+  width: 520px;
+  height: 409px;
+  }
+#section6 .mu_kv2 {
+  width: 230px;
+  height: 340px;
+  margin-left: 750px;
+  }
+#section6 .mu_kv3 {
+  width: 230px;
+  height: 340px;
+  margin-left: 1010px;
+  }
+}
+/*---------------------------------------------------------------------------*/
+@media only screen and (max-width: 1250px) {
+	body{margin-left:-45px;}
+  #section1 .topCW{margin-left: 45px;}
+  #section7 .website{margin-left: 110px;}
+}
+@media only screen and (max-width: 1150px) {
+	body{margin-left:-50px;}
+  #section1 .topCW{margin-left: 50px;}
+  #section7 .website{margin-left: 210px;}
+
+/*-------------WTW---------------*/
+/*	#section3 .titleanimated {
+	font-size: 65px;
+	}
+	.wtw_video {
+		width: 720px;
+		height: 500px;
+		right:  0.1%;
+	}
+	#section3 .wtw_title {
+		margin-left: 320px;
+		margin-top: 140px;
+	}
+	#section3 .wtw_subtitle {
+		font-size: 18px;
+		margin-top: -426px;
+		line-height: 27px;
+	}
+	#section3 .wtw_description{
+		font-size: 12px;
+		width:20%;
+		line-height: 24px;}
+*/
+	#section3 .wtw_video2{
+	width: 260px;
+	height: 282px;
+	}
+	#section3 .wtw_video3{
+  margin-left: 465px;
+	margin-top: 290px;
+	}
+	#section3 .wtw_video4{
+	margin-top: 290px;
+	margin-left: 650px;
+	}
+	#section3 .wtw_video5{
+	margin-top: 290px;
+	margin-left: 835px;
+	}
+	#section3 .wtw_video6{
+	margin-top: 290px;
+	margin-left: 1020px;
+	}
+
+	/*-------------CP---------------*/
+  #section4 .titleanimated {
+  font-size: 65px;
+  }
+	#section4 .cp_kv1 {
+		width: 280px;
+		height: 440px;
+    margin-left: 890px;
+		}
+	#section4 .cp_kv2 {
+		width: 330px;
+		height: 561px;
+		margin-left: 220px;
+		}
+/*-------------hm---------------*/
+#section5 .hm_kv2 {
+ width: 300px;
+ height: 455px;
+ margin-left: 530px;
+ margin-top: 115px;
+ }
+ #section5 .hm_kv3 {
+  width: 300px;
+  height: 227.5px;
+  margin-left: 870px;
+  margin-top: 440px;
+}
+#section5 .hm_kv1 {
+ width: 300px;
+ height: 227.5px;
+ margin-left: 870px;
+}
+ #section5 .hm_bg{
+ width: 470px;
+ height:556px;
+ margin-left: 180px;
+ margin-top: 70px;
+ }
+#section5 .hm_title {
+   margin-top: 550px;
+ }
+/*-------------mu---------------*/
+
+#section6 .mu_kv1 {
+  width: 500px;
+  height: 393px;
+  }
+#section6 .mu_kv2 {
+  width: 215px;
+  height: 318px;
+  margin-left: 700px;
+  }
+#section6 .mu_kv3 {
+  width: 215px;
+  height: 318px;
+  margin-left: 940px;
+  }
+/*-------------OW---------------*/
+
+#section7 .text {
+  margin-left: -140px;
+}
+
+}
+
+
+/*
+@media only screen and (max-width: 200px) {
+	body{margin-left:-400px;}
+  #section1 .topCW{margin-left: 10px;}
+}
+
+
+
+/*---------------------------------------------------------------------------*/
+@media only screen and (min-width: 1540px) {
+	  body{
+			margin-left: 100px;
+		}
+		#section1 .topCW{margin-left: -200px;}
+	  }
+@media only screen and (min-width: 1740px) {
+	body{
+		margin-left: 200px;
+	}
+	#section1 .topCW{margin-left: -400px;}
+	}
+@media only screen and (min-width: 2040px) {
+	body{
+		margin-left: 300px;
+	}
+	#section1 .topCW{margin-left: -600px;}
+	}
