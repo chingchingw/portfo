@@ -8,7 +8,7 @@
 		margin-left: -100px;
 	}
   }
-@media only screen and (max-width: 1920px) {
+@media only screen and (max-width: 1000px) {
   body{
 		margin-left: +300px;
 	}
