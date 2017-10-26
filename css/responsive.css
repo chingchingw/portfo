@@ -264,17 +264,12 @@ font-size: 65px;
 /*---------------------------------------------------------------------------*/
 @media only screen and (min-width: 1500px) {
 	  body{
-			margin-left: 10px;
+			margin-left: 20px;
 		}
-		#section1 .topCW{margin-left: -10px;}
+		#section1 .topCW{margin-left: -20px;}
 		#section3 .wtw_video {
 			width: 900px;
 			height: 625px;
-			right: 10%
-		}
-		#section3 .worktwo{
-			margin-left: 500px;
-
 		}
 		#section3 .cp_bg{
 		  margin-left: -400px;
