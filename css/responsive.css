@@ -19,10 +19,9 @@
 	#section3 .titleanimated {
 	font-size: 65px;
 	}
-	.wtw_video {
-		width: 720px;
-		height: 500px;
-		right:  0.1%;
+	#section3 .wtw_video {
+		width: 680px;
+		height: 472px;
 	}
 	#section3 .wtw_title {
 		margin-left: 320px;
@@ -73,9 +72,6 @@
   #section4 .titleanimated {
   font-size: 65px;
   }
-  /*#section4 .cp_title {
-    margin-top: 140px;
-  }*/
   #section4 .cp_subtitle {
     font-size: 18px;
     line-height: 27px;
@@ -174,28 +170,10 @@ font-size: 65px;
   #section7 .website{margin-left: 210px;}
 
 /*-------------WTW---------------*/
-/*	#section3 .titleanimated {
-	font-size: 65px;
-	}
-	.wtw_video {
-		width: 720px;
-		height: 500px;
-		right:  0.1%;
-	}
-	#section3 .wtw_title {
-		margin-left: 320px;
-		margin-top: 140px;
-	}
-	#section3 .wtw_subtitle {
-		font-size: 18px;
-		margin-top: -426px;
-		line-height: 27px;
-	}
-	#section3 .wtw_description{
-		font-size: 12px;
-		width:20%;
-		line-height: 24px;}
-*/
+#section3 .wtw_video {
+	width: 640px;
+	height: 444px;
+}
 	#section3 .wtw_video2{
 	width: 260px;
 	height: 282px;
@@ -282,12 +260,6 @@ font-size: 65px;
 
 }
 
-
-/*
-@media only screen and (max-width: 200px) {
-	body{margin-left:-400px;}
-  #section1 .topCW{margin-left: 10px;}
-}
 
 
 
