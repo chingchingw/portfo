@@ -260,12 +260,12 @@ font-size: 65px;
 
 }
 /*---------------------------------------------------------------------------*/
-@media only screen and (min-width: 1445px) {
+@media only screen and (min-width: 1450px) {
 
 		#section3 .wtw_video {
-			width: 750px;
-			height: 521px;
-			background-color:#FFFFCC;
+			width: 730px;
+			height: 507px;
+			background-color:red;
 		}
 	  }
 /*---------------------------------------------------------------------------*/
@@ -273,6 +273,7 @@ font-size: 65px;
 	  body{
 			margin-left: 20px;
 		}
+
 		#section1 .topCW{margin-left: -20px;}
 
 	  }
@@ -284,6 +285,11 @@ font-size: 65px;
 		}
 		#section1 .topCW{margin-left: -40px;}
 		#section7 .text {margin-left: -10px;}
+		#section3 .wtw_video {
+			width: 750px;
+			height: 521px;
+			background-color:#FFFFCC;
+		}
 	  }
 
 /*---------------------------------------------------------------------------*/
