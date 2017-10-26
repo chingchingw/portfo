@@ -260,7 +260,7 @@ font-size: 65px;
 
 }
 /*---------------------------------------------------------------------------*/
-@media only screen and (min-width: 1450px) {
+@media only screen and (min-width: 1445px) {
 
 		#section3 .wtw_video {
 			width: 730px;
@@ -287,40 +287,33 @@ font-size: 65px;
 		}
 		#section1 .topCW{margin-left: -40px;}
 		#section7 .text {margin-left: -10px;}
+		}
 
-
-	  }
 /*---------------------------------------------------------------------------*/
-@media only screen and (min-width: 1500px) {
-
+@media only screen and (min-width: 1490px) {
 		#section3 .wtw_video {
 			width: 770px;
 			height: 535px;
 		}
-
-	  }
+}
+/*---------------------------------------------------------------------------*/
+@media only screen and (min-width: 1500px) {
+	body{
+		margin-left: 45px;
+	}
+	#section1 .topCW{margin-left: -50px;}
+	#section7 .text {margin-left: -20px;}
+	}
 /*---------------------------------------------------------------------------*/
 @media only screen and (min-width: 1540px) {
 	  body{
-			margin-left: 50px;
+			margin-left: 55px;
 		}
-		#section1 .topCW{margin-left: -50px;}
-		#section3 .wtw_video {
-			width: 800px;
-			height: 556px;
-		}
-		#section3 .cp_bg{
-			width: 2000px;
-		  height: 300px;
-		  background-image: url(../img/cp_bg.jpg);
-			background-size: 95%;
-		  background-attachment: fixed;
-		  position: absolute;
-		  margin-left: -400px;
-		  margin-top: 600px;
+		#section1 .topCW{margin-left: -55px;}
 
-		}
 	  }
+
+		
 @media only screen and (min-width: 1740px) {
 	body{
 		margin-left: 200px;
