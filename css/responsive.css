@@ -267,6 +267,7 @@ font-size: 65px;
 			height: 507px;
 			background-color:red;
 		}
+		#section3 .wtw_video3 {margin-top: 550px}
 	  }
 /*---------------------------------------------------------------------------*/
 @media only screen and (min-width: 1460px) {
@@ -274,6 +275,7 @@ font-size: 65px;
 			margin-left: 20px;
 		}
 		#section1 .topCW{margin-left: -20px;}
+		#section3 .wtw_video3 {margin-top: 550px}
 	  }
 
 /*---------------------------------------------------------------------------*/
@@ -288,10 +290,10 @@ font-size: 65px;
 			height: 521px;
 			background-color:#FFFFCC;
 		}
-		#section3 .wtw_video3 {margin-top: 250px}
+
 	  }
 /*---------------------------------------------------------------------------*/
-@media only screen and (min-width: 1480px) {
+@media only screen and (min-width: 1500px) {
 
 		#section3 .wtw_video {
 			width: 770px;
