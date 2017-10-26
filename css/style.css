@@ -67,56 +67,12 @@ padding:-5px 1px; border-radius:10px 0px; -webkit-transition: all 0.3s ease; tra
 #dot1 li.on a span{opacity:1; left: 20px;}
 
 
-/*animation*/
-
-.animated.first {
-  -webkit-animation-delay: 0.2s;
-  animation-delay: 0.2s;
-}
-
-.animated.second {
-  -webkit-animation-delay: 0.9s;
-  animation-delay: 0.9s;
-}
-
-
-@-webkit-keyframes fadeInUpintro {
-  from {
-    opacity: 0;
-    -webkit-transform: translate3d(0, 1.5%, 0);
-    transform: translate3d(0, 1.5%, 0);
-  }
-  to {
-    opacity: 1;
-    -webkit-transform: none;
-    transform: none;
-  }
-}
-
-@keyframes fadeInUpintro {
-  from {
-    opacity: 0;
-    -webkit-transform: translate3d(0, 1.5%, 0);
-    transform: translate3d(0, 1.5%, 0);
-  }
-  to {
-    opacity: 1;
-    -webkit-transform: none;
-    transform: none;
-  }
-}
-
-.fadeInUpintro {
-  -webkit-animation-name: fadeInUpintro;
-  animation-name: fadeInUpintro;
-}
 
 .overpk {
 	color:#4f6269;
 	font-size: 35px;
 	letter-spacing: 7px;
   text-align: center;
-  height:100vh;
   line-height: 115vh;
   position: absolute;
   width: 100%;
@@ -128,8 +84,6 @@ padding:-5px 1px; border-radius:10px 0px; -webkit-transition: all 0.3s ease; tra
 	font-size: 65px;
 	text-align: center;
 	letter-spacing: 7px;
-  height:100vh;
-  line-height: 100vh;
   position: absolute;
   width: 100%;
 }
