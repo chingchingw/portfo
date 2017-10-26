@@ -268,7 +268,9 @@ font-size: 65px;
 			background-color:red;
 		}
 		#section3 .wtw_video3  {margin-top: 330px}
-		#section3 .wtw_video4  {margin-top: 360px}
+		#section3 .wtw_video4  {margin-top: 330px}
+		#section3 .wtw_video5  {margin-top: 330px}
+		#section3 .wtw_video6  {margin-top: 330px}
 	  }
 /*---------------------------------------------------------------------------*/
 @media only screen and (min-width: 1460px) {
@@ -276,7 +278,6 @@ font-size: 65px;
 			margin-left: 20px;
 		}
 		#section1 .topCW{margin-left: -20px;}
-		#section3 .wtw_video3 {margin-top: 550px}
 	  }
 
 /*---------------------------------------------------------------------------*/
