@@ -263,8 +263,8 @@ font-size: 65px;
 @media only screen and (min-width: 1445px) {
 
 		#section3 .wtw_video {
-			width: 770px;
-			height: 535px;
+			width: 750px;
+			height: 521px;
 			background-color:#FFFFCC;
 		}
 	  }
@@ -283,7 +283,7 @@ font-size: 65px;
 			margin-left: 40px;
 		}
 		#section1 .topCW{margin-left: -40px;}
-
+		#section7 .text {margin-left: -10px;}
 	  }
 
 /*---------------------------------------------------------------------------*/
