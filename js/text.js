@@ -1,9 +1,3 @@
-$(function() {
-    $("a.wtw_video animation-element line").attr("href", "http://www.google.com");
-});
-
-
-
 var dot1 = $("#dot1 > ul >li");
 var contents = $("#contents > div");
 

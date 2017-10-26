@@ -50,6 +50,7 @@ background-color: #FFFFCC;
 		color: #4f6269;
 		line-height: 40vh;
 }
+.thanks{	z-index: 999;}
 
 li {list-style: none;}
 a {text-decoration: none;}
@@ -258,6 +259,7 @@ line-height: 35px;}
 
 
 		.wtw_video {
+			z-index:1000;
 			width: 720px;
 			height: 500px;
 			background-image: url(../img/wtw_video.jpg);
