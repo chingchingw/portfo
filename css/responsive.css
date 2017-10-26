@@ -259,22 +259,22 @@ font-size: 65px;
 }
 
 }
+/*---------------------------------------------------------------------------*/
+@media only screen and (min-width: 1460px) {
 
-
+		#section3 .wtw_video {
+			width: 800px;
+			height: 556px;
+			background-color: red;
+		}
+	  }
 /*---------------------------------------------------------------------------*/
 @media only screen and (min-width: 1480px) {
 	  body{
 			margin-left: 20px;
 		}
 		#section1 .topCW{margin-left: -20px;}
-		#section3 .wtw_video {
-			width: 900px;
-			height: 625px;
-			background-color: red;
-		}
-		#section3 .cp_bg{
-		  margin-left: 300px;
-		}
+		
 	  }
 
 /*---------------------------------------------------------------------------*/
