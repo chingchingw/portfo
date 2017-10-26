@@ -301,7 +301,8 @@ font-size: 65px;
 	body{
 		margin-left: 45px;
 	}
-	#section1 .topCW{margin-left: -50px;}
+	#section3 .wtw_video {margin-left: 200px;}
+	#section1 .topCW{margin-left: -45px;}
 	#section7 .text {margin-left: -20px;}
 	}
 /*---------------------------------------------------------------------------*/
@@ -310,19 +311,11 @@ font-size: 65px;
 			margin-left: 55px;
 		}
 		#section1 .topCW{margin-left: -55px;}
-
 	  }
-
-		
 @media only screen and (min-width: 1740px) {
 	body{
-		margin-left: 200px;
+		margin-left: 100px;
 	}
-	#section1 .topCW{margin-left: -400px;}
-	}
-@media only screen and (min-width: 2040px) {
-	body{
-		margin-left: 300px;
-	}
-	#section1 .topCW{margin-left: -600px;}
+	#section1 .topCW{margin-left: -100px;}
+	#section7 .text {margin-left: -60px;}
 	}
