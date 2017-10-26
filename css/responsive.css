@@ -270,9 +270,10 @@ font-size: 65px;
 		#section3 .wtw_video {
 			width: 900px;
 			height: 625px;
+			background-color: red;
 		}
 		#section3 .cp_bg{
-		  margin-left: -400px;
+		  margin-left: 300px;
 		}
 	  }
 
