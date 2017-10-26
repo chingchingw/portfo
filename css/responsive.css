@@ -267,7 +267,8 @@ font-size: 65px;
 			height: 507px;
 			background-color:red;
 		}
-		#section3 .wtw_video3 .wtw_video4 {margin-top: 250px}
+		#section3 .wtw_video3  {margin-top: 270px}
+		#section3 .wtw_video4  {margin-top: 270px}
 	  }
 /*---------------------------------------------------------------------------*/
 @media only screen and (min-width: 1460px) {
