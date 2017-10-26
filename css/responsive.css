@@ -260,20 +260,29 @@ font-size: 65px;
 
 }
 /*---------------------------------------------------------------------------*/
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1445px) {
 
 		#section3 .wtw_video {
-			width: 800px;
-			height: 556px;
+			width: 770px;
+			height: 535px;
 			background-color:#FFFFCC;
 		}
 	  }
 /*---------------------------------------------------------------------------*/
-@media only screen and (min-width: 1480px) {
+@media only screen and (min-width: 1460px) {
 	  body{
 			margin-left: 20px;
 		}
 		#section1 .topCW{margin-left: -20px;}
+
+	  }
+
+/*---------------------------------------------------------------------------*/
+@media only screen and (min-width: 1480px) {
+	  body{
+			margin-left: 40px;
+		}
+		#section1 .topCW{margin-left: -40px;}
 
 	  }
 
