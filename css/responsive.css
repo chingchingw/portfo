@@ -160,6 +160,9 @@ font-size: 65px;
 	body{margin-left:-45px;}
   #section1 .topCW{margin-left: 45px;}
   #section7 .website{margin-left: 110px;}
+	#section8 {
+			line-height: 200vh;
+	}
 }
 @media only screen and (max-width: 1150px) {
 	body{margin-left:-50px;}
@@ -254,6 +257,7 @@ font-size: 65px;
 #section7 .text {
   margin-left: -140px;
 }
+
 
 }
 /*---------------------------------------------------------------------------*/
