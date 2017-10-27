@@ -50,7 +50,6 @@ background-color: #FFFFCC;
 		color: #4f6269;
 		line-height: 40vh;
 }
-.thanks{	z-index: 999;}
 
 li {list-style: none;}
 a {text-decoration: none;}
@@ -262,7 +261,8 @@ line-height: 35px;}
 			z-index:1000;
 			width: 720px;
 			height: 500px;
-			background-image: url(../img/wtw_video.jpg);
+			background-image: url(../img/Untitled-1.gif);
+			background-size: 100%;
 			background-repeat: no-repeat;
 			background-position: right;
 			position: absolute;
@@ -612,7 +612,7 @@ line-height: 35px;}
 
 						.mu_bg{
   						height: 600px;
-  						background-image: url(../img/mu_bg.png);
+  						background-image: url(../img/mubg.gif);
 							background-size: 120%;
   						background-position: top center;
   						background-attachment: fixed;
