@@ -1091,6 +1091,15 @@ width:330px;
 		animation: draw1 0.8s linear alternate;
 		}
 
+		@-webkit-keyframes draw1 {
+		from {
+		stroke-dashoffset: -100;
+			}
+		to {
+		stroke-dashoffset: -200;
+			}
+		}
+
 		@keyframes draw1 {
 		from {
 		stroke-dashoffset: -100;
